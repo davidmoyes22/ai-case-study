@@ -24,7 +24,7 @@ In a [press release](https://www.datavisor.com/news/datavisor-raises-14-5m-to-pr
 
 >The rapid expansion of online services and mobile apps has led to an explosion of user accounts, ushering in the ‘billion-user era,' ...Cyber thieves are using this growth to their advantage, using fake and compromised accounts to easily hide in the shadows and conduct various forms of fraud against websites and mobile apps. Our mission is to build and restore trust in online communities and services and to protect every one of us legitimate users by finding the hidden enemy lurking within them.
 
-This press release goes on to state that, in 2015 alone, cyber fraud was expected to exceed $50B in loses from online users. As cyber criminals have adopted increasingly complex and effective in their methods of attack, existing security solutions have become inneffective at identifying or stopping them. This is where DataVisor comes in.
+This press release goes on to state that, in 2015 alone, cyber fraud was expected to exceed $50B in losses from online users. As cyber criminals have adopted increasingly complex and effective methods of attack, existing security solutions have become ineffective at identifying or stopping them. This is where DataVisor comes in.
 
 ### The Solution
 DataVisor's product offering is built on a patent-pending analytics engine that leverages Apache Spark (a big data analytics platform) to analyze billions of security events each hour. It is designed to identify fraudulent attacks early, without the need to manually label or train the data.
@@ -50,10 +50,10 @@ In E-commerce, global sales have grown from **$572B to $4.2T** between the years
 
 In Financial Services, as of 2020, approximately **60%** of Americans use some form of online banking which is up from **36%** in 2010. We've also seen an increase in federal regulations to help protect users information and assets during that same time period.
 
-As a result of an ever-evolving market, the Fraud Detection industry has undergone some changes. In 2015, there were **785** major data breaches as compared to **3,205** in 2023. To keep up with the increased demand, companies like DataVisor have implemented alogorithms and deep-learning models, that are capable of discovering issues without hard coding.
+As a result of an ever-evolving market, the Fraud Detection industry has undergone some changes. In 2015, there were **785** major data breaches as compared to **3,205** in 2023. To keep up with the increased demand, companies like DataVisor have implemented algorithms and deep-learning models that are capable of discovering issues without hard coding.
 
 ### Main Competitors
-Given the increase in digital fraud it is not surprising that DataVisor has a lot of competitors that are solving similar problems for their customers. Sift, ClearSale, SEON. Fraud Fighters, Riskified, and Signifyd are among some of the top competitors in the fraud detection space. In the table below, we will compare DataVisor to Signifyd anad Riskified to hopefully highlight some opportunities for growth. Reference [Crunchbase](https://www.crunchbase.com/organization/datavisor/technology) for more thorough definitions of the metrics used below.
+Given the increase in digital fraud it is not surprising that DataVisor has a lot of competitors that are solving similar problems for their customers. Sift, ClearSale, SEON. Fraud Fighters, Riskified, and Signifyd are among some of the top competitors in the fraud detection space. In the table below, we will compare DataVisor to Signifyd and Riskified to hopefully highlight some opportunities for growth. Reference [Crunchbase](https://www.crunchbase.com/organization/datavisor/technology) for more thorough definitions of the metrics used below.
 
 |  | DataVisor | Signifyd |Riskified |
 | ----------- | ----------- |----------- | ----------- |
@@ -71,14 +71,14 @@ From this data, we can assume that Signifyd and Risified are providing solutions
 ### Business Opportunity
 While the [G2 table](https://www.g2.com/compare/datavisor-vs-riskified-vs-signifyd) below is not a perfect representation of each of these companies' customer bases, it does tell an interesting story.
 
-While Riskified, Signifyd, and DataVisor are all major players in the fraud detection software industry,  DataVisor has narrowed it's scope to focus on one or two industries while  it's competitors have broadened their scope to provide services for a broader set of industries. I believe that DataVisor could improve their market share by making their product more usable and engaging for business across multiple industries.
+While Riskified, Signifyd, and DataVisor are all major players in the artificial intelligence fraud detection software industry,  DataVisor has narrowed its scope to focus on one or two industries while  it's competitors have broadened their scope to provide services for a broader set of industries. I believe that DataVisor could improve their market share by making their product more usable and engaging for business across multiple industries.
 
 ![G2 Competitor Overview](https://github.com/davidmoyes22/ai-case-study/assets/153705227/cf25c005-c7a1-41af-96d7-f7a4d711388c)
 
 ### Technical Investment
-There is a principle of product management that is refered to as **buy, build, or partner**. The basic concept is that if your company wants to expand their market they can acquire an existing company, build something from sratch, or partner with someone with the technology or domain expertise you need.
+There is a principle of product management that is referred to as **buy, build, or partner**. The basic concept is that if your company wants to expand their market they can acquire an existing company, build something from scratch, or partner with someone with the technology or domain expertise you need.
 
-Buying can be a good option in terms of time to value, but is often one of the most expensive. Building takes time and ties up resources, but can be a good option if what you are looking for doesn't exist. Partnering introduces risk of damaging your companies reputation if your partners don't hold your same standards, but can quickly open up new revenue streams.
+Buying can be a good option in terms of time to value, but is often one of the most expensive. Building takes time and ties up resources, but can be a good option if what you are looking for doesn't exist. Partnering introduces risk of damaging your company's reputation if your partners don't hold your same standards, but can quickly open up new revenue streams.
 
 *My recommendation is for DataVisor to focus on partnerships to help them identify new industries where they could generate new revenue streams.* From a technical perspective, the investments that they will need to make are fairly minimal. Outside of publishing some of their APIs, the only thing DataVisor should need to do is provide partner access to sandbox accounts and product training.
 
@@ -89,7 +89,7 @@ According to [Impact.com](https://impact.com/partnerships/how-partnerships-fuel-
 1. "29 percent revenue growth per year over the last two years.
 2. 41 percent growth in 2021 for brands that invested in partnerships early in the pandemic"
 
-My recommendation for DataVisor is to invest heavily in building a robust partner network filled with technology and domain experts. Doing so will give them the tools and credibility that they need to break into new markets and start to take market share from their competitors in different industries. This course of action would be be faster than building out new product offerings to compete in new industries and significantly cheaper than acquiring another company. **At worst, investing in a partner network gives DataVisor the opportunity to validate their product-market fit in new industries at a much lower cost and at best, it will allow them to compete in new industries and open up significant future revenue streams.**
+My recommendation for DataVisor is to invest heavily in building a robust partner network filled with technology and domain experts. Doing so will give them the tools and credibility that they need to break into new markets and start to take market share from their competitors in different industries. This course of action would be faster than building out new product offerings to compete in new industries and significantly cheaper than acquiring another company. **At worst, investing in a partner network gives DataVisor the opportunity to validate their product-market fit in new industries at a much lower cost and at best, it will allow them to compete in new industries and open up significant future revenue streams.**
 
 ## Resources Addendum 📖
 - [Crunchbase - DataVisor Financials](https://www.crunchbase.com/organization/datavisor/company_financials)
@@ -118,6 +118,6 @@ My recommendation for DataVisor is to invest heavily in building a robust partne
 - [E-commerce Trends](https://redstagfulfillment.com/2010s-ecommerce-growth-decade/)
 - [Financial Services Trends](https://gitnux.org/online-banking-industry-statistics/)
 - [Fraud Detection and Cyber Crime Trends](https://www.iii.org/fact-statistic/facts-statistics-identity-theft-and-cybercrime)
-- [Inteligent Fraud Detection Practices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8581570/)
+- [Intelligent Fraud Detection Practices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8581570/)
 - [Buy, Build, or Partner](https://www.pragmaticinstitute.com/product/framework/buy-build-or-partner/)
 - [Partnership Revenue Impact](https://impact.com/partnerships/how-partnerships-fuel-revenue-growth-during-economic-uncertainty/)
