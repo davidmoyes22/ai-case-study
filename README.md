@@ -64,6 +64,7 @@ Given the increase in digital fraud it is not surprising that DataVisor has a lo
 | Bounce Rate | 91.97% | 58.36% | 50.71% |
 Bounce Rate Growth| -7.18% | -24.24% | -2.74% |
 
+From this data, we can assume that Signifyd and Risified are providing solutions with a more engaging user experience. Their customers spend more time on the site each time they visit are are significantly less likely to drop-off after only viewing one page. It seems like both of those companies are making investments in improving that experience as evidenced by their significant growth in visit duration. 
 
 ## Recommendations
 
